@@ -11,18 +11,22 @@ Predicting the volume of products will aid Supply Chain department in optimizng 
 In this problem the objective is to predict the future revenue of a transaction thereby understanding product distribution and customer behavior.
 
 Dataset
+
 After combining all the dataframes and removing duplicates the dataset has 112650 rows by 6 columns
  
 Feature Engineering
+
 Created new features Recency, Category count and user type. 
 Used K-means clustering(elbow method) to identify the optimal cluster count and created Recency cluster and product category cluster. 
 
 Model
+
 Created a base decision tree model and predicted revenue numbers.
 Created an XGBoost ensemble to improve the prediction and used gridsearchCV to obtain best parameters. 
 Checked for overfitting and predicted final revenue numbers on test set. 
 
 Presentation 
+
 Summarized all the findings in the Customer_Lifetimevalue_Prediction.pdf/ Customer_Lifetimevalue_Prediction.pptx file. 
 
 
