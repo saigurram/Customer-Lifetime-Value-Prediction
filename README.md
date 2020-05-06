@@ -1,4 +1,6 @@
 # Marketing_CLTV
+![alt text](https://169nk53l5vat1xy1vt3r9fwt-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/customer-lifetime-value.png)
+
 The dataset used in this analysis can be obtained from https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_customers_dataset.csv 
  
 
